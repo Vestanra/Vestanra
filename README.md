@@ -4,13 +4,13 @@
 
 ## 📌 About Me
 
-- Dev from Ukraine
+- I am frontend developer from Ukraine
 
 - I love learning new technologies
 
 - Now I'm open for work and new projects
 
-<br><br>
+<br>
 
 ## ✉ Contacts
 
@@ -20,7 +20,7 @@
 
 - <a href='mailto:vestanra@ukr.net'>vestanra@ukr.net</a>
 
-<br><br>
+<br>
 
 ## 💻 Skills 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="Skills" align="left" width="40" height="60"/>
