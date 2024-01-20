@@ -1,4 +1,19 @@
-### 
+<h1 align="center">Hi there, I'm Vira Stetsiuk! </h1>
 
-![Static Badge](https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvestanra%2F)
+<h3 align="center">Frontend developer</h3>
 
+## 💻 About Me
+
+- Dev from Ukraine
+
+- I love learning new technologies
+
+- Now I'm open for work and new projects 
+
+## 💌 Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/vestanra/)
+
+- [Telegram](https://t.me/vestanra)
+
+- Email - `vestanra@ukr.net`
