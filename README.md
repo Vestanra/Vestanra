@@ -8,9 +8,6 @@
 
 - I love learning new technologies
 
-- Now I'm open for work and new projects
-
-
 ## ✉ Contacts
 
 - <a href="https://www.linkedin.com/in/vestanra/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=flat&logo=linkedin" alt="LinkedIn" style="height: 25px; width: auto;" /></a>
